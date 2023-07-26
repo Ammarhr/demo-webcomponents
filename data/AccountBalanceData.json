@@ -1,0 +1,16 @@
+{
+  "totalAmmount": "40.23",
+  "dueDate": "Apr 21, 2023",
+  "html_masseges": [
+    {
+      "message": "<p><span style=\"font-family:Interstate\"><span style=\"color:#0072c6\"><span style=\"font-size:36px\"><strong>Unpaid Balance</strong></span></span></span></p>\n\n<p><span style=\"font-size:20px\"><span style=\"font-family:Interstate\">Amount not paid by due date may be assessed a late payment charge. Please refer to previous statement for previous statement balance due dates.</span></span></p>\n"
+    },
+    {
+      "message": "<p><span style=\"font-size:20px\">Your payment in the amount of <strong>$</strong><strong>40.23</strong></span><span style=\"font-size:20px\">&nbsp;is pending and will be applied to your balance as soon as it is posted</span></p>\n"
+    }
+  ],
+  "pay_now_link": "https://qa.account.tecoenergy.com/Payment/PayNow",
+  "title": "Total Amount Due",
+  "postive_color": "#005faa",
+  "negative_color": "#24A148"
+}

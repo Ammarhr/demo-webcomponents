@@ -1,0 +1,434 @@
+{
+  "Section": [
+    {
+      "Order": 3,
+      "Lable": "Electric Charges",
+      "FontSize": 30,
+      "IconPath": "electricCharge.svg",
+      "Color": "#00294A",
+      "IsItalic": false,
+      "IsBreakdown": false,
+      "SectionType": "Service",
+      "ServiceType": "Electric",
+      "URL": "https://www.tampaelectric.com/residential/billing-options/understanding-your-bill/",
+      "FontWeight": "400",
+      "Collapsible": false,
+      "ConfigValue": "5101086942",
+      "Section_Level1": [
+        {
+          "Order": 1,
+          "FontSize": 0,
+          "IsItalic": false,
+          "IsBreakdown": false,
+          "SectionType": "ServiceHeaderGroup",
+          "Section_Level2": [
+            {
+              "Order": 1,
+              "Lable": "Service Period:",
+              "Value": "Service Period:",
+              "ToolTip": "",
+              "FontSize": 18,
+              "Color": "#6C6C6C",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "ServiceHeaderGroupvalue",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 2,
+              "Value": "02/07/2023",
+              "FontSize": 18,
+              "Color": "#6C6C6C",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "ServiceHeaderGroupvalue",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 3,
+              "Lable": "-",
+              "Value": "-",
+              "FontSize": 18,
+              "Color": "#6C6C6C",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "ServiceHeaderGroupvalue",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 4,
+              "Value": "03/07/2023",
+              "FontSize": 18,
+              "Color": "#6C6C6C",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "ServiceHeaderGroupvalue",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 5,
+              "Lable": "Rate Schedule :",
+              "Value": "Rate Schedule :",
+              "FontSize": 18,
+              "Color": "#6C6C6C",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "ServiceHeaderGroupvalue",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 6,
+              "Value": "General Service - Non Demand",
+              "FontSize": 18,
+              "Color": "#6C6C6C",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "ServiceHeaderGroup",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            }
+          ],
+          "MobileFontSize": 0
+        },
+        {
+          "Order": 4,
+          "FontSize": 0,
+          "IsItalic": false,
+          "IsBreakdown": false,
+          "SectionType": "Charge_Group",
+          "Section_Level2": [
+            {
+              "Order": 1,
+              "Value": "Daily Basic Service Charge",
+              "ToolTip": "A fixed monthly amount that covers the cost to provide service to your location.",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 2,
+              "Value": "29 days",
+              "FontSize": 18,
+              "Color": "#005FAA",
+              "IsItalic": true,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 3,
+              "Value": "@ $0.75000",
+              "FontSize": 18,
+              "Color": "#005FAA",
+              "IsItalic": true,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 4,
+              "Value": "$21.75",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            }
+          ],
+          "MobileFontSize": 0
+        },
+        {
+          "Order": 4,
+          "FontSize": 0,
+          "IsItalic": false,
+          "IsBreakdown": false,
+          "SectionType": "Charge_Group",
+          "Section_Level2": [
+            {
+              "Order": 1,
+              "Value": "Energy Charge",
+              "ToolTip": "For residential, small commercial and lighting customers, includes the cost (except fuel) of producing and delivering the electricity you purchased, including conservation, environmental and capacity cost recovery charges. For other customers, the three cost recovery charges appear as separate line items.",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 2,
+              "Value": "128 kWh",
+              "FontSize": 18,
+              "Color": "#005FAA",
+              "IsItalic": true,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 3,
+              "Value": "@ $0.07990/kWh",
+              "FontSize": 18,
+              "Color": "#005FAA",
+              "IsItalic": true,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 4,
+              "Value": "$10.23",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            }
+          ],
+          "MobileFontSize": 0
+        },
+        {
+          "Order": 4,
+          "FontSize": 0,
+          "IsItalic": false,
+          "IsBreakdown": false,
+          "SectionType": "Charge_Group",
+          "Section_Level2": [
+            {
+              "Order": 1,
+              "Value": "Fuel Charge",
+              "ToolTip": "Cost of fuel used to produce electricity you purchased. Fuel costs are passed through from fuel suppliers to our customers with no markup or profit to Tampa Electric.",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 2,
+              "Value": "128 kWh",
+              "FontSize": 18,
+              "Color": "#005FAA",
+              "IsItalic": true,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 3,
+              "Value": "@ $0.04832/kWh",
+              "FontSize": 18,
+              "Color": "#005FAA",
+              "IsItalic": true,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 4,
+              "Value": "$6.18",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            }
+          ],
+          "MobileFontSize": 0
+        },
+        {
+          "Order": 4,
+          "FontSize": 0,
+          "IsItalic": false,
+          "IsBreakdown": false,
+          "SectionType": "Charge_Group",
+          "Section_Level2": [
+            {
+              "Order": 1,
+              "Value": "Storm Protection Charge",
+              "ToolTip": "The cost of additional hardening efforts to further protect the power grid from hurricanes or other extreme weather events.",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 2,
+              "Value": "128 kWh",
+              "FontSize": 18,
+              "Color": "#005FAA",
+              "IsItalic": true,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 3,
+              "Value": "@ $0.00400/kWh",
+              "FontSize": 18,
+              "Color": "#005FAA",
+              "IsItalic": true,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 4,
+              "Value": "$0.51",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            }
+          ],
+          "MobileFontSize": 0
+        },
+        {
+          "Order": 4,
+          "FontSize": 0,
+          "IsItalic": false,
+          "IsBreakdown": false,
+          "SectionType": "Charge_Group",
+          "Section_Level2": [
+            {
+              "Order": 1,
+              "Value": "Clean Energy Transition Mechanism",
+              "ToolTip": "A charge to recover the cost associated with electric meter upgrades and the closing of certain coal generating plants to support Tampa Electric's transition to produce clean energy.",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 2,
+              "Value": "128 kWh",
+              "FontSize": 18,
+              "Color": "#005FAA",
+              "IsItalic": true,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 3,
+              "Value": "@ $0.00427/kWh",
+              "FontSize": 18,
+              "Color": "#005FAA",
+              "IsItalic": true,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "300",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 4,
+              "Value": "$0.55",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            }
+          ],
+          "MobileFontSize": 0
+        },
+        {
+          "Order": 4,
+          "FontSize": 0,
+          "IsItalic": false,
+          "IsBreakdown": false,
+          "SectionType": "Charge_Group",
+          "Section_Level2": [
+            {
+              "Order": 1,
+              "Value": "Florida Gross Receipt Tax",
+              "ToolTip": "A tax that is imposed on gross receipts from utility services that are delivered to retail customers in Florida, in accordance with Chapter 203 of the Florida Statutes. Utility companies collect the tax from all customers, unless exempt, and remit to the state.",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            },
+            {
+              "Order": 4,
+              "Value": "$1.01",
+              "FontSize": 20,
+              "Color": "#000000",
+              "IsItalic": false,
+              "IsBreakdown": false,
+              "SectionType": "Charge",
+              "FontWeight": "400",
+              "MobileFontSize": 0
+            }
+          ],
+          "MobileFontSize": 0
+        },
+        {
+          "Order": 5,
+          "Lable": "Electric Service Cost",
+          "Value": "$40.23",
+          "FontSize": 20,
+          "Color": "#005FAA",
+          "IsItalic": false,
+          "IsBreakdown": false,
+          "SectionType": "Total",
+          "FontWeight": "400",
+          "MobileFontSize": 0
+        }
+      ],
+      "MobileFontSize": 0
+    },
+    {
+      "Order": 5,
+      "Lable": "Total Current Month's Charges",
+      "Value": "$40.23",
+      "FontSize": 35,
+      "Color": "#005FAA",
+      "IsItalic": false,
+      "IsBreakdown": false,
+      "SectionType": "InvoiceTotal",
+      "FontWeight": "400",
+      "Collapsible": false,
+      "MobileFontSize": 0
+    }
+  ]
+}

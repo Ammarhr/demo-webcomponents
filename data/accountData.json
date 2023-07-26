@@ -1,0 +1,12 @@
+{
+  "account": {
+    "accountNumber": 211014394921,
+    "status": "Active",
+    "adress": "5007 W Lutz Lake Fern Rd  Lutz FL 33558-9225",
+    "multiAccountsFlag": false,
+    "IsElectric": true,
+    "IsGas": false,
+    "IsLighting": false,
+    "favorite": false
+  }
+}

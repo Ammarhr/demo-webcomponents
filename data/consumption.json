@@ -1,0 +1,29 @@
+{
+    "Consumption": [
+        {
+            "YearNo": 2006,
+            "Amount": 28000,
+            "Consumption": 28000
+        },
+        {
+            "YearNo": 2007,
+            "Amount": 50000 ,
+            "Consumption": 50000    
+        },
+        {
+            "YearNo": 2008,
+            "Amount": 28000,
+            "Consumption": 28000
+        },
+        {
+            "YearNo": 2009,
+            "Amount": 28000,
+            "Consumption": 215100
+        },
+        {
+            "YearNo": 2010,
+            "Amount": 28000,
+            "Consumption": 335100
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "services": [
+        {
+            "serviceName": "Electric",
+            "BillContractNo": "5101086942",
+            "ZInstallBillClass": "Commercial and Industrial",
+            "monthly": {
+                "VisibilityTab": true,
+                "unit": "kWh",
+                "valueConsumption": 128,
+                "percentageConsumption": -11,
+                "valueTemp": 70,
+                "percentageTemp": 8,
+                "y": {
+                    "data": [
+                        144,
+                        128
+                    ]
+                },
+                "x": [
+                    "FEB 2023",
+                    "MAR 2023"
+                ],
+                "CurrentFactorDate": "MAR 2023",
+                "PreviousFactorValue": "0.00",
+                "PreviousFactorDate": "FEB 2023",
+                "LoadFactorArrowComparison": 0,
+                "CurrentDemandValue": "0",
+                "DemandUnit": "kW"
+            },
+            "yearly": {
+                "VisibilityTab": true,
+                "unit": "kWh",
+                "valueConsumption": 128,
+                "percentageConsumption": -7,
+                "valueTemp": 70,
+                "percentageTemp": 5,
+                "y": {
+                    "data": [
+                        138,
+                        128
+                    ]
+                },
+                "x": [
+                    "MAR 2022",
+                    "MAR 2023"
+                ],
+                "CurrentFactorDate": "MAR 2023",
+                "PreviousFactorValue": "0.00",
+                "PreviousFactorDate": "MAR 2022",
+                "LoadFactorArrowComparison": 0,
+                "CurrentDemandValue": "0",
+                "DemandUnit": "kW"
+            }
+        }
+    ]
+}

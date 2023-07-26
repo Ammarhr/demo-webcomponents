@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "Title": "Removing Your Envelope.",
+      "Code": "MESG_REM_ENVELOPE",
+      "message": "<p>We&rsquo;ve noticed that you have been paying your bill electronically lately. To help cut down on clutter and waste, we are no longer including a remittance envelope with your bill. Should you want to mail in your payment, you can request a payment envelope by calling 813-223-0800 or simply use a regular envelope and address it to TECO P.O. Box 31318, Tampa, Florida 33631-3318.</p>\n"
+    },
+    {
+      "Title": "",
+      "Code": "MEB1",
+      "message": "<p><span style=\"color:#005faa\"><strong>Be prepared this storm season.</strong></span></p>\n\n<p>Visit your county&rsquo;s emergency management website to determine your flood zone, your hurricane evacuation zone, get flood depth data, flood insurance information or help with property flood protection.</p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#005faa\"><strong>Help for those with special needs.</strong></span></p>\n\n<p>Emergency authorities can assist with arranging transportation or finding a shelter for those with special needs. A statewide registry provides county health departments and emergency management agencies with information to prepare and respond to disasters. Visit <a href=\"http://FloridaDisaster.org\"><span style=\"color:#005faa\"><strong>FloridaDisaster.org</strong></span></a> to learn more.</p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"color:#005faa\">More clean energy to you.</span></strong></p>\n\n<p>Tampa Electric has reduced its use of coal by 94% over the past 20 years and has cut its carbon footprint in half. This is all made possible through investments in technology that help us use more solar and cleaner, domestically produced natural gas to produce electricity. Today, Tampa Electric is the state&rsquo;s top producer of solar energy per customer. In 2022, our solar plants saved customers approximately $78 million in fuel costs. Learn more at <a href=\"http://TampaElectric.com/SolarSavingsForYou\"><span style=\"color:#005faa\"><strong>TampaElectric.com/SolarSavingsForYou</strong></span></a><span style=\"color:#005faa\">.</span> Our diverse fuel mix for the 12-month period ending Mar. 2023 includes Natural Gas 78%, Purchased Power 10%, Solar 7% and Coal 5%.</p>\n\n<p>&nbsp;</p>\n"
+    }
+  ]
+}
